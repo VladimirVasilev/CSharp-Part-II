@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. SquareRootInvalid-Exception", "01. SquareRootInvalid-Exception\01. SquareRootInvalid-Exception.csproj", "{4F918C9E-4BE8-4CA6-85E4-F55481F070FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. IntegerInRange", "02. IntegerInRange\02. IntegerInRange.csproj", "{B15F1EBD-F071-4E20-850F-6B798023FCCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. ReadAndPrintFileContent", "03. ReadAndPrintFileContent\03. ReadAndPrintFileContent.csproj", "{AACAA72C-E57B-4FE9-96C3-E78C612F16ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. InternetDownloadFile", "04. InternetDownloadFile\04. InternetDownloadFile.csproj", "{BA7856DE-82AC-42D6-B3C8-D8326F3E0D53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F918C9E-4BE8-4CA6-85E4-F55481F070FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F918C9E-4BE8-4CA6-85E4-F55481F070FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F918C9E-4BE8-4CA6-85E4-F55481F070FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F918C9E-4BE8-4CA6-85E4-F55481F070FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B15F1EBD-F071-4E20-850F-6B798023FCCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15F1EBD-F071-4E20-850F-6B798023FCCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B15F1EBD-F071-4E20-850F-6B798023FCCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B15F1EBD-F071-4E20-850F-6B798023FCCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AACAA72C-E57B-4FE9-96C3-E78C612F16ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AACAA72C-E57B-4FE9-96C3-E78C612F16ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AACAA72C-E57B-4FE9-96C3-E78C612F16ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AACAA72C-E57B-4FE9-96C3-E78C612F16ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA7856DE-82AC-42D6-B3C8-D8326F3E0D53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA7856DE-82AC-42D6-B3C8-D8326F3E0D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA7856DE-82AC-42D6-B3C8-D8326F3E0D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA7856DE-82AC-42D6-B3C8-D8326F3E0D53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

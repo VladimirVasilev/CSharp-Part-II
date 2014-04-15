@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Kaspichan Numbers", "01. Kaspichan Numbers\01. Kaspichan Numbers.csproj", "{CCDF0BF2-FC97-4EE7-8479-9351312DFC8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. GreedyDwarf", "02. GreedyDwarf\02. GreedyDwarf.csproj", "{FD0FCD43-2B69-401C-B3E9-3B01DDD64261}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCDF0BF2-FC97-4EE7-8479-9351312DFC8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCDF0BF2-FC97-4EE7-8479-9351312DFC8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCDF0BF2-FC97-4EE7-8479-9351312DFC8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCDF0BF2-FC97-4EE7-8479-9351312DFC8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD0FCD43-2B69-401C-B3E9-3B01DDD64261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD0FCD43-2B69-401C-B3E9-3B01DDD64261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD0FCD43-2B69-401C-B3E9-3B01DDD64261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD0FCD43-2B69-401C-B3E9-3B01DDD64261}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

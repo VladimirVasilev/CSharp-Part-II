@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. 9Gag-Numbers", "01. 9Gag-Numbers\01. 9Gag-Numbers.csproj", "{22F4CB6F-87C3-4CA8-B6FD-BA519AF1C551}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. KukataIsDancing", "03. KukataIsDancing\03. KukataIsDancing.csproj", "{9DDD5A9E-C36E-4F63-9066-F8295D3A5BCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22F4CB6F-87C3-4CA8-B6FD-BA519AF1C551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22F4CB6F-87C3-4CA8-B6FD-BA519AF1C551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22F4CB6F-87C3-4CA8-B6FD-BA519AF1C551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22F4CB6F-87C3-4CA8-B6FD-BA519AF1C551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DDD5A9E-C36E-4F63-9066-F8295D3A5BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DDD5A9E-C36E-4F63-9066-F8295D3A5BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DDD5A9E-C36E-4F63-9066-F8295D3A5BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DDD5A9E-C36E-4F63-9066-F8295D3A5BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
